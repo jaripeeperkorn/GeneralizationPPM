@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pnml>
+  <net id="net1" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <page id="n0">
+      <place id="p_14">
+        <name>
+          <text>p_14</text>
+        </name>
+      </place>
+      <place id="p_12">
+        <name>
+          <text>p_12</text>
+        </name>
+      </place>
+      <place id="p_15">
+        <name>
+          <text>p_15</text>
+        </name>
+      </place>
+      <place id="p_13">
+        <name>
+          <text>p_13</text>
+        </name>
+      </place>
+      <place id="p_16">
+        <name>
+          <text>p_16</text>
+        </name>
+      </place>
+      <place id="p_17">
+        <name>
+          <text>p_17</text>
+        </name>
+      </place>
+      <place id="p_5">
+        <name>
+          <text>p_5</text>
+        </name>
+      </place>
+      <place id="p_18">
+        <name>
+          <text>p_18</text>
+        </name>
+      </place>
+      <place id="p_NL1">
+        <name>
+          <text>p_NL1</text>
+        </name>
+      </place>
+      <place id="p_NL2">
+        <name>
+          <text>p_NL2</text>
+        </name>
+      </place>
+      <place id="source">
+        <name>
+          <text>source</text>
+        </name>
+        <initialMarking>
+          <text>1</text>
+        </initialMarking>
+      </place>
+      <place id="p_1">
+        <name>
+          <text>p_1</text>
+        </name>
+      </place>
+      <place id="p_3">
+        <name>
+          <text>p_3</text>
+        </name>
+      </place>
+      <place id="p_4">
+        <name>
+          <text>p_4</text>
+        </name>
+      </place>
+      <place id="p_2">
+        <name>
+          <text>p_2</text>
+        </name>
+      </place>
+      <place id="p_6">
+        <name>
+          <text>p_6</text>
+        </name>
+      </place>
+      <place id="sink">
+        <name>
+          <text>sink</text>
+        </name>
+      </place>
+      <place id="p_7">
+        <name>
+          <text>p_7</text>
+        </name>
+      </place>
+      <place id="p_8">
+        <name>
+          <text>p_8</text>
+        </name>
+      </place>
+      <place id="p_9">
+        <name>
+          <text>p_9</text>
+        </name>
+      </place>
+      <place id="p_10">
+        <name>
+          <text>p_10</text>
+        </name>
+      </place>
+      <place id="p_11">
+        <name>
+          <text>p_11</text>
+        </name>
+      </place>
+      <transition id="name_J1">
+        <name>
+          <text>J1</text>
+        </name>
+      </transition>
+      <transition id="name_J2">
+        <name>
+          <text>J2</text>
+        </name>
+      </transition>
+      <transition id="name_K">
+        <name>
+          <text>K</text>
+        </name>
+      </transition>
+      <transition id="name_L1">
+        <name>
+          <text>L1</text>
+        </name>
+      </transition>
+      <transition id="name_L2">
+        <name>
+          <text>L2</text>
+        </name>
+      </transition>
+      <transition id="name_M">
+        <name>
+          <text>M</text>
+        </name>
+      </transition>
+      <transition id="name_N1">
+        <name>
+          <text>N1</text>
+        </name>
+      </transition>
+      <transition id="name_N2">
+        <name>
+          <text>N2</text>
+        </name>
+      </transition>
+      <transition id="name_A">
+        <name>
+          <text>A</text>
+        </name>
+      </transition>
+      <transition id="name_O">
+        <name>
+          <text>O</text>
+        </name>
+      </transition>
+      <transition id="name_B">
+        <name>
+          <text>B</text>
+        </name>
+      </transition>
+      <transition id="name_P1">
+        <name>
+          <text>P1</text>
+        </name>
+      </transition>
+      <transition id="name_C">
+        <name>
+          <text>C</text>
+        </name>
+      </transition>
+      <transition id="name_P2">
+        <name>
+          <text>P2</text>
+        </name>
+      </transition>
+      <transition id="name_Q">
+        <name>
+          <text>Q</text>
+        </name>
+      </transition>
+      <transition id="name_R1">
+        <name>
+          <text>R1</text>
+        </name>
+      </transition>
+      <transition id="name_D1">
+        <name>
+          <text>D1</text>
+        </name>
+      </transition>
+      <transition id="name_R2">
+        <name>
+          <text>R2</text>
+        </name>
+      </transition>
+      <transition id="name_D2">
+        <name>
+          <text>D2</text>
+        </name>
+      </transition>
+      <transition id="name_S">
+        <name>
+          <text>S</text>
+        </name>
+      </transition>
+      <transition id="name_E">
+        <name>
+          <text>E</text>
+        </name>
+      </transition>
+      <transition id="name_F1">
+        <name>
+          <text>F1</text>
+        </name>
+      </transition>
+      <transition id="name_F2">
+        <name>
+          <text>F2</text>
+        </name>
+      </transition>
+      <transition id="name_G">
+        <name>
+          <text>G</text>
+        </name>
+      </transition>
+      <transition id="name_H1">
+        <name>
+          <text>H1</text>
+        </name>
+      </transition>
+      <transition id="name_H2">
+        <name>
+          <text>H2</text>
+        </name>
+      </transition>
+      <transition id="name_I">
+        <name>
+          <text>I</text>
+        </name>
+      </transition>
+      <arc id="81450096900" source="name_J1" target="p_10"/>
+      <arc id="81450096903" source="name_J2" target="p_10"/>
+      <arc id="81450096391" source="name_S" target="sink"/>
+      <arc id="81450096909" source="p_13" target="name_N2"/>
+      <arc id="81450097038" source="p_17" target="name_R2"/>
+      <arc id="81450097041" source="p_17" target="name_R1"/>
+      <arc id="81450089108" source="name_D1" target="p_4"/>
+      <arc id="81449984148" source="p_7" target="name_H1"/>
+      <arc id="81450096918" source="p_10" target="name_K"/>
+      <arc id="81450097044" source="name_Q" target="p_17"/>
+      <arc id="81450096921" source="name_K" target="p_11"/>
+      <arc id="81450096924" source="p_11" target="name_L1"/>
+      <arc id="81450089117" source="name_D2" target="p_4"/>
+      <arc id="81450097053" source="p_18" target="name_S"/>
+      <arc id="81450097056" source="p_NL2" target="name_R2"/>
+      <arc id="81450096930" source="p_11" target="name_L2"/>
+      <arc id="81449984163" source="p_8" target="name_I"/>
+      <arc id="81449984166" source="name_H1" target="p_8"/>
+      <arc id="81450097062" source="name_R2" target="p_18"/>
+      <arc id="81450089129" source="name_B" target="p_2"/>
+      <arc id="81450097068" source="p_NL1" target="name_R1"/>
+      <arc id="81450097074" source="name_R1" target="p_18"/>
+      <arc id="81450096948" source="p_12" target="name_M"/>
+      <arc id="81450096951" source="name_M" target="p_13"/>
+      <arc id="81449984184" source="p_6" target="name_G"/>
+      <arc id="81449984187" source="name_F1" target="p_6"/>
+      <arc id="81450096957" source="name_L2" target="p_12"/>
+      <arc id="81449984190" source="p_5" target="name_F1"/>
+      <arc id="81450096960" source="name_P1" target="p_16"/>
+      <arc id="81450089153" source="p_3" target="name_D2"/>
+      <arc id="81450096963" source="name_L1" target="p_12"/>
+      <arc id="81450089156" source="p_2" target="name_C"/>
+      <arc id="81450096972" source="name_N1" target="p_14"/>
+      <arc id="81449984205" source="name_I" target="p_9"/>
+      <arc id="81450096978" source="name_N2" target="p_14"/>
+      <arc id="81449984211" source="p_7" target="name_H2"/>
+      <arc id="81449984214" source="name_H2" target="p_8"/>
+      <arc id="81450096984" source="p_13" target="name_N1"/>
+      <arc id="81449984217" source="name_G" target="p_7"/>
+      <arc id="81449984220" source="p_9" target="name_J1"/>
+      <arc id="81450096996" source="p_15" target="name_P1"/>
+      <arc id="81449984229" source="p_5" target="name_F2"/>
+      <arc id="81450089192" source="source" target="name_A"/>
+      <arc id="81449984232" source="name_D2" target="p_NL2"/>
+      <arc id="81450097002" source="name_O" target="p_15"/>
+      <arc id="81449984235" source="name_F2" target="p_6"/>
+      <arc id="81450097005" source="p_14" target="name_O"/>
+      <arc id="81450089198" source="p_1" target="name_B"/>
+      <arc id="81449984238" source="name_E" target="p_5"/>
+      <arc id="81450097008" source="p_15" target="name_P2"/>
+      <arc id="81450089201" source="name_A" target="p_1"/>
+      <arc id="81449984241" source="p_4" target="name_E"/>
+      <arc id="81450097011" source="name_P2" target="p_16"/>
+      <arc id="81449984244" source="name_D1" target="p_NL1"/>
+      <arc id="81450089207" source="name_C" target="p_3"/>
+      <arc id="81450097017" source="p_16" target="name_Q"/>
+      <arc id="81449984250" source="p_9" target="name_J2"/>
+      <arc id="81450089213" source="p_3" target="name_D1"/>
+    </page>
+  </net>
+</pnml>
